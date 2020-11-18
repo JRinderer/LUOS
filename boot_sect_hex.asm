@@ -1,5 +1,6 @@
 print_hex:
 	pusha
+	pusha
 
 	mov cx, 0
 
